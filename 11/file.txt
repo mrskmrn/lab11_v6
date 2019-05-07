@@ -1,0 +1,6 @@
+Arm
+Leg
+Forehead
+Toys
+Fingers
+Chin
